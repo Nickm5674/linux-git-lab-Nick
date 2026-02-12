@@ -1,2 +1,3 @@
 Hello from Branch A and B!
-Learning Git Diff in Linux Lab
+Learning Git Diff and Comparing Commits
+
