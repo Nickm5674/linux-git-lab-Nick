@@ -2,3 +2,4 @@ Hello from Branch A and B!
 Learning Git Diff and Comparing Commits
 
 This is a diff-branch version
+Diff branch conflicting version
