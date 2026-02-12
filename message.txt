@@ -1,3 +1,4 @@
 Hello from Branch A and B!
 Learning Git Diff and Comparing Commits
 Main Branch Version
+Diff branch conflicting version
